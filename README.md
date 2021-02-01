@@ -20,3 +20,15 @@ The following file implements Logistic Regression on the Cleveland Heart Disease
 The dataset CSV files can be accessed in the following files.
 * clevelandtest.csv
 * clevelandtrain.csv
+
+## SVM
+The following file applies SVM to a random set of 3 data points one million times.
+* SVM.ipynb
+
+## Random Forest
+The following file applies Random Forest to the MNIST dataset. You can read more about the dataset [here](http://yann.lecun.com/exdb/mnist/)
+* RandomForestAndNeuralNetwork.ipynb
+
+## Neural Network
+The following file creates a neural network for the MNIST dataset. You can read more about the dataset [here](http://yann.lecun.com/exdb/mnist/)
+* RandomForestAndNeuralNetwork.ipynb
