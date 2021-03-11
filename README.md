@@ -26,9 +26,9 @@ The following file applies SVM to a random set of 3 data points one million time
 * SVM.ipynb
 
 ## Random Forest
-The following file applies Random Forest to the MNIST dataset. You can read more about the dataset [here](http://yann.lecun.com/exdb/mnist/)
+The following file applies Random Forest to the MNIST dataset. You can read more about the dataset [here](http://yann.lecun.com/exdb/mnist/).
 * RandomForestAndNeuralNetwork.ipynb
 
 ## Neural Network
-The following file creates a neural network for the MNIST dataset. You can read more about the dataset [here](http://yann.lecun.com/exdb/mnist/)
+The following file creates a neural network for the MNIST dataset. You can read more about the dataset [here](http://yann.lecun.com/exdb/mnist/).
 * RandomForestAndNeuralNetwork.ipynb
