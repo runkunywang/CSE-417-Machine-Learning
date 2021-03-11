@@ -1,5 +1,5 @@
 # CSE-417-Machine-Learning
-Code for CSE 417 Machine Learning. Code is written python3 and MATLAB.
+Code for CSE 417 Machine Learning: Code is written python3 and MATLAB.
 
 ## Table of Contents
 * [PLA](#PLA)
